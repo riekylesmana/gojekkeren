@@ -1,13 +1,13 @@
 # gojekkeren
 
 this java program  is about parking slot system,
-you can set for slot,
+you can make park slot,
 park the car,
 search the car,
 etc.
 
 
-List of input:
+List of function:
 
 "create_parking_lot"						 
 "park"										 
@@ -35,4 +35,13 @@ registration_numbers_for_cars_with_colour White
 slot_numbers_for_cars_with_colour White
 slot_number_for_registration_number KA-01-HH-3141
 slot_number_for_registration_number MH-04-AY-1111
+
+
+Unit Test using JUnit.
+Last compile with eclipse kepler.
+
+
+
+
+
 
